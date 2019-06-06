@@ -5,6 +5,7 @@
 
 body {
 	background-color: #1a1a1d;
+  background-size: 40px;
 }
 
 img.logo {
@@ -30,7 +31,7 @@ div {
 }
 
 .name {
-	font-size: 7.5vw;
+	font-size: 7vw;
 	font-family: Arial;
 	margin: 0;
 	color: white;
@@ -51,7 +52,7 @@ a:hover {
 }
 
 .page-header {
-	font-size: 7.5vw;
+	font-size: 7vw;
 	font-family: Arial;
 	margin: 0;
 	color: white;
