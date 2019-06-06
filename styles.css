@@ -1,0 +1,24 @@
+#main-header {
+	padding: 40px 0px;
+	margin: 0px 40px;
+}
+
+img.logo {
+	width: 24vh;
+}
+
+.name {
+	font-size: 8vw;
+	font-family: Arial;
+	margin: 0;
+}
+
+.page-header {
+	font-size: 8vw;
+	font-family: Arial;
+	margin: 0;
+}
+
+nav {
+	margin-left: 20vw;
+}
